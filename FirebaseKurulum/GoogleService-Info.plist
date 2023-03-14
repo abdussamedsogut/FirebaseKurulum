@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>990327430634-0t8e44icrrmhh35f6jlvn0cu8750ct9i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.990327430634-0t8e44icrrmhh35f6jlvn0cu8750ct9i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMwJmkaoG2B8-7U7y1GiPukM31YJ2a94g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>990327430634</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.abdussamedsogut.FirebaseKurulum</string>
+	<key>PROJECT_ID</key>
+	<string>ilkproje-4ca96</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ilkproje-4ca96.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:990327430634:ios:1120a5d93e06463a17e693</string>
+</dict>
+</plist>
